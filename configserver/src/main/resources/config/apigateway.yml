@@ -6,7 +6,6 @@ server:
 #    key-store-password: changeit
 #    #key-store-password: bHC/jakBgiH6sr5zvO8PFA==
 #    key-store-type: PKCS12
-#    key-alias: wisengage-key
 #    key-password: changeit
 #    #key-password: bHC/jakBgiH6sr5zvO8PFA==
 
